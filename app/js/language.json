@@ -101,4 +101,38 @@
       "btn_zoom_in": "zoom<br>screen"
     }
   }
+  "ar": {
+    "btn_open": "ذوي الاحتياجات الخاصة",
+    "btn_close": "أغلق",
+    "keyboard_root": "التنقل باستخدام لوحة المفاتيح",
+    "disable_animattions": "منع الرسوم المتحركة",
+    "access_declaration": "بيان إمكانية الوصول",
+    "debug_contacts": "الإبلاغ عن مشكلة إمكانية الوصول",
+    "reset_all_settings": "اعادة الضبط",
+    "image_without_alt": "صورة بدون نص",
+    "contrast_block": {
+      "header": "تباين الألوان",
+      "btn_monochrome": "شاشة <br> غير ملونة",
+      "btn_bright": "التباين <br> مشرق",
+      "btn_invert": "عكس <BR> النقيض"
+    },
+    "text_block": {
+      "header": "حجم الخط",
+      "btn_font_up": "تكبير <BR> النص",
+      "btn_font_down": "تصغير <BR> النص",
+      "btn_font_readable": "نص <br> قابل للقراءة"
+    },
+    "content_block": {
+      "header": "تسليط الضوء على المحتوى",
+      "btn_underline_links": "الروابط <br> تسطير ",
+      "btn_underline_headers": "العناوين <br> تسطير",
+      "btn_images_titles": "صور <br> العناوين"
+    },
+    "zoom_block": {
+      "header": "تكبير",
+      "btn_cursor_white": "أبيض كبير <br> المؤشر",
+      "btn_cursor_black": "الأسود الكبير <br> المؤشر",
+      "btn_zoom_in": "الشاشة <br> تكبير"
+    }
+  }
 }
